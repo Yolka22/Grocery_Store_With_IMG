@@ -18,7 +18,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using SQL_DB_DataTables;
 
-namespace Grocery_Stpre_With_IMG
+namespace Grocery_Store_With_IMG
 {
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml
